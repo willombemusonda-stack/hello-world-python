@@ -1,1 +1,1 @@
-# hello-world-python
+Initial commit for hello world project 

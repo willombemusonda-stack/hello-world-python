@@ -1,1 +1,1 @@
-Initial commit for hello world project 
+hello world project 
